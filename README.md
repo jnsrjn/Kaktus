@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://jnsrjn.github.io/kaktus/](https://jnsrjn.github.io/kaktus/) öffnen
+Ein Programm, welches misst ob es einem Kaktus gut geht 🌵👍
 
 ## Als Erweiterung verwenden
 
